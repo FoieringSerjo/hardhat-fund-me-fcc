@@ -33,6 +33,8 @@ contract FundMe {
     _;
   }
 
+  // 0x00000000000000000000000000000019 ---> uint256 25
+
   // Functions Order:
   // constructor
   // receive

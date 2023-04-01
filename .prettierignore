@@ -4,6 +4,7 @@ img
 artifacts
 cache
 coverage
+contracts/**
 .env
 .*
 README.md
